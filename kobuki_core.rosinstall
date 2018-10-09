@@ -6,5 +6,5 @@
 
 # Kobuki Core / Yujin stacks
 
-- git: {local-name: catkin,         tags: 0.6.19, uri: 'https://github.com/ros/catkin.git'}
+- git: {local-name: catkin,         tag: 0.6.19, uri: 'https://github.com/ros/catkin.git'}
 
